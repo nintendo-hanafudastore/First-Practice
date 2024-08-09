@@ -1,0 +1,4 @@
+﻿  exercise.c
+D:\编程练习\7.30练习2017\exercise.c(162,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\编程练习\7.30练习2017\exercise.c(163,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  7.30练习2017.vcxproj -> D:\编程练习\7.30练习2017\x64\Debug\7.30练习2017.exe
